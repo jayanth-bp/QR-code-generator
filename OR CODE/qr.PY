@@ -12,7 +12,7 @@ else:
     fill_color="black"
     back_color="white"
 
-file_path="C:\\Users\\Jaynth\\OneDrive\\Desktop\\f\\Projects\\OR CODE\\Generated QR's"
+file_path=""
 
 file_path = os.path.join(file_path, name + ".png")
 
